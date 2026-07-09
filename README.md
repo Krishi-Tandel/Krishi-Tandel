@@ -3,7 +3,7 @@
 
 🎓 **3rd Year Computer Science Engineering Student**
 
-💻 Interested in Full Stack Development and Software Engineering.
+💻 Learning Full Stack Development
 
 ---
 
@@ -18,9 +18,9 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ---
