@@ -16,15 +16,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Languages**
-
-* Python
-* C
-* HTML
-* CSS
-* JavaScript
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
+</p>
 
 **Tools**
 
