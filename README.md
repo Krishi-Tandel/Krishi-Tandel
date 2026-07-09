@@ -40,5 +40,8 @@
 **GitHub:** github.com/Krishi-Tandel
 
 ---
+## 📊 GitHub Stats
 
-⭐ Thanks for visiting my profile!
+![Krishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishi-Tandel&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishi-Tandel&layout=compact&theme=tokyonight)
