@@ -22,11 +22,6 @@
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
 
-**Tools**
-
-* Git
-* GitHub
-* VS Code
 
 ---
 
