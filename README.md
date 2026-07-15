@@ -41,9 +41,4 @@
 
 **GitHub:** github.com/Krishi-Tandel
 
----
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krishi-Tandel&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Krishi-Tandel&layout=compact&theme=tokyonight)
